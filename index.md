@@ -4,13 +4,9 @@
 
 ## 📌 소개
 
-GitHub Pages를 활용한 첫 웹사이트입니다. 
 
 ## 🚀 관심 분야
-
-- 웹 개발
-- 프로그래밍
-- 오픈소스 프로젝트
+- 사이버안보
 
 ## 📂 프로젝트
 
@@ -24,7 +20,7 @@ GitHub Pages를 활용한 첫 웹사이트입니다.
 ## 📧 연락처
 
 - **GitHub**: [@chh930](https://github.com/chh930)
-- **Email**: your-email@example.com
+- **Email**: chh930@ikmail.com
 
 ---
 
