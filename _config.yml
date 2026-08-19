@@ -1,6 +1,14 @@
+# _config.yml
+remote_theme: "mmistakes/minimal-mistakes"
 title: "chh의 연구실"
-description: "정치외교학 · 북한학 및 사이버안보 정책 연구"
+description: "정치외교학 · 북한학 및 사이버안보 연구"
 author: "chh"
 
-# GitHub Pages에서 공식 지원하는 깔끔한 테마 적용 예시
-theme: jekyll-theme-minimal
+# 테마 상세 설정
+minimal_mistakes_skin: "air" # 테마 스킨 (수정 가능: "dirt", "neon", "air", "aqua" 등)
+
+# 사이드바 설정 (포트폴리오에 매우 중요)
+sidebar:
+  nav: "side_nav"
+
+# 사이드바 메뉴 구성 (나중에 _data/navigation.yml을 통해 설정)
