@@ -1,0 +1,10 @@
+# _data/navigation.yml
+side_nav:
+  - title: "연구자 소개"
+    url: /
+  - title: "Policy Briefs"
+    url: /policy-briefs/
+  - title: "Research Papers"
+    url: /research/
+  - title: "연락처"
+    url: /contact/
