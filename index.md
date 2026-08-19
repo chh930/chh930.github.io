@@ -22,11 +22,10 @@ title: Home
 ---
 
 ## 🔍 Research Interests
-저의 연구 핵심은 **'안보(Security)'**입니다.
-
+저의 연구 핵심은 '사이버 안보(Security) 정책'입니다.
 * **사이버안보(Cyber Security Policy):** 국가 간 사이버 전략, 디지털 안보 정책 및 위협 분석
 * **북한 및 국제관계:** 한반도 안보 환경 변화와 정보 보안의 상관관계
-
+* 
 ---
 
 ## 📂 Projects & Portfolio
