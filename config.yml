@@ -12,3 +12,12 @@ sidebar:
   nav: "side_nav"
 
 # 사이드바 메뉴 구성 (나중에 _data/navigation.yml을 통해 설정)
+
+author:
+  name: "chh"
+  avatar: "/assets/images/profile.jpg" # 본인 사진 경로 (assets/images에 사진 저장 필요)
+  bio: "정치외교학 · 북한학 연구자"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chh930"
